@@ -1,1 +1,1 @@
-Projeto de calculadora para atividade do ScholarShip fase 2, aonde foi desenvolvido uma calculadora com operações basicas para apicações de teste umitarias e a avliaçãode de conhecimento sebre programção python e de aplicação de teste unitarios em python.
+Projeto de calculadora para atividade do ScholarShip fase 2, aonde foi desenvolvido uma calculadora com operações basicas para apicações de teste unitarias e a avliaçãode de conhecimento sebre programção python e de aplicação de teste unitarios em python.
